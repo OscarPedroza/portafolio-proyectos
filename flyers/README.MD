@@ -1,6 +1,6 @@
 # Diseños y Flyers
 
-Estos son algunos de los diseños que realice durante mi estancia en la empresa Develop Code.
+Estos son algunos de los diseños que realicé durante mi estancia en la empresa Develop Code.
 
 _**Nota:** Este material se presenta únicamente con fines de demostrativos para el portafolio_
 
