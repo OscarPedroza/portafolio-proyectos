@@ -6,8 +6,8 @@
 
 ### Proyectos realizados en la empresa Grupo Hernández Alba
 
-- [Proyectos web](proyectos-web/)
+- [Proyectos web](paginas-web/)
 
 ### Proyectos propios
 
-- [Proyectos propios](proyectos-personales/)
+- [Proyectos propios](proyectos-propios/)
