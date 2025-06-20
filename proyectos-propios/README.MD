@@ -2,7 +2,7 @@
 
 ## Tarjeta de presentación para papelería
 
-![Imagen 1](img/img1.jpg 'Imagen 1')
+![Imagen 1](img/img1.png 'Imagen 1')
 
 ## Prototipo de sitio web para una pastelería
 
